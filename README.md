@@ -1,3 +1,6 @@
+# Description
+This is a basic template for a LangGraph project.
+
 # Requirements
 
 ## Python
